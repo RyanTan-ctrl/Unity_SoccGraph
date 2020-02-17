@@ -232,6 +232,7 @@ namespace ChartAndGraph.Legened
                 {
                     legendItemData.Text.text = item.Name;
                     legendItemData.Text.fontSize = fontSize;
+                    legendItemData.Text.color = Color.white;
                 }
             }
         }
